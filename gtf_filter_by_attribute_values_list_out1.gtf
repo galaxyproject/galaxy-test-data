@@ -1,3 +1,4 @@
+#!Cufflinks version XX
 chr13	Cufflinks	transcript	3565855	3566203	1000	-	.	gene_id "CUFF.50195"; transcript_id "CUFF.50195.1"; FPKM "29.8710998584"; frac "1.000000"; conf_lo "7.290671"; conf_hi "52.451529"; cov "1.909091";
 chr13	Cufflinks	exon	3565855	3565913	1000	-	.	gene_id "CUFF.50195"; transcript_id "CUFF.50195.1"; exon_number "1"; FPKM "29.8710998584"; frac "1.000000"; conf_lo "7.290671"; conf_hi "52.451529"; cov "1.909091";
 chr13	Cufflinks	exon	3566164	3566203	1000	-	.	gene_id "CUFF.50195"; transcript_id "CUFF.50195.1"; exon_number "2"; FPKM "29.8710998584"; frac "1.000000"; conf_lo "7.290671"; conf_hi "52.451529"; cov "1.909091";
