@@ -1,0 +1,7 @@
+##gff-version 2
+##bed_to_gff_converter.py
+
+super_1	bed2gff	mRNA	139824	139913	0	-	.	mRNA AK028861;
+super_1	bed2gff	exon	139824	139913	0	-	.	exon AK028861;
+super_1	bed2gff	mRNA	156751	156844	0	-	.	mRNA BC126698;
+super_1	bed2gff	exon	156751	156844	0	-	.	exon BC126698;
