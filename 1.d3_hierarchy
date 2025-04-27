@@ -1,0 +1,112 @@
+{
+ "id": 1,
+ "name": "John",
+ "children": [
+  {
+   "id": 2,
+   "name": "Sarah",
+   "children": [
+    {
+     "id": 11,
+     "name": "Lary",
+     "children": [
+      {
+       "id": 15,
+       "name": "George",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      }
+     ],
+     "count": 2,
+     "selfCount": 1
+    },
+    {
+     "id": 12,
+     "name": "Susan",
+     "children": [
+      {
+       "id": 13,
+       "name": "Martha",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      },
+      {
+       "id": 14,
+       "name": "Zack",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      }
+     ],
+     "count": 3,
+     "selfCount": 1
+    }
+   ],
+   "count": 6,
+   "selfCount": 1
+  },
+  {
+   "id": 3,
+   "name": "Charles",
+   "children": [
+    {
+     "id": 5,
+     "name": "Rick",
+     "children": [],
+     "count": 1,
+     "selfCount": 1
+    }
+   ],
+   "count": 2,
+   "selfCount": 1
+  },
+  {
+   "id": 4,
+   "name": "Janet",
+   "children": [
+    {
+     "id": 6,
+     "name": "Aaron",
+     "children": [],
+     "count": 1,
+     "selfCount": 1
+    },
+    {
+     "id": 7,
+     "name": "Kim",
+     "children": [
+      {
+       "id": 8,
+       "name": "Patricia",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      },
+      {
+       "id": 9,
+       "name": "Jack",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      },
+      {
+       "id": 10,
+       "name": "Thomas",
+       "children": [],
+       "count": 1,
+       "selfCount": 1
+      }
+     ],
+     "count": 4,
+     "selfCount": 1
+    }
+   ],
+   "count": 6,
+   "selfCount": 1
+  }
+ ],
+ "count": 15,
+ "selfCount": 1
+}
