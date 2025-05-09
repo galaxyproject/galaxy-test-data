@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [7.832639258060858, 48.01366501725848]
+  },
+  "properties": {
+    "name": "Freiburg Galaxy Project"
+  }
+}
+
